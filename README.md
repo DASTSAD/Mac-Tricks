@@ -3,4 +3,4 @@
 depot of usefull commands
 
 
-[listing_of _directories.md]
+[https://github.com/upsaratus/Mac-Tricks/blob/master/listing_of%20_directories.md]
