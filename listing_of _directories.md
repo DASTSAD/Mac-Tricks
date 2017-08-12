@@ -1,3 +1,5 @@
-== Listnig of Directories ==
+# Listnig of Directories
 
+```shell
   ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/ /' -e 's/-/|/'
+```
